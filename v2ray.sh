@@ -1779,8 +1779,8 @@ showLog() {
 menu() {
     clear
     echo "#############################################################"
-    echo -e "#                   ${RED}v2ray一键安装脚本${PLAIN}                         #"
-    echo -e "#                   ${RED}此版本由Github（Llikeyoulqm）进行维护！${PLAIN}                         #"
+    echo -e "# ${RED}v2ray一键安装脚本${PLAIN}                         #"
+    echo -e "# ${RED}此版本由Github（Llikeyoulqm）进行维护！${PLAIN}                         #"
     echo -e "# ${GREEN}作者${PLAIN}: 网络跳越(hijk)                                      #"
     echo -e "# ${GREEN}网址${PLAIN}: https://hijk.art   ${RED}无法访问${PLAIN}                                 #"
     echo -e "# ${GREEN}论坛${PLAIN}: https://hijk.club   ${RED}无法访问${PLAIN}                                #"
