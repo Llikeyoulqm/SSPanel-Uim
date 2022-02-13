@@ -1782,9 +1782,9 @@ menu() {
     echo -e "#                   ${RED}v2ray一键安装脚本${PLAIN}                         #"
     echo -e "#                   ${RED}此版由Github（Llikeyoulqm）进行维护${PLAIN}                         #"
     echo -e "# ${GREEN}作者${PLAIN}: 网络跳越(hijk)                                      #"
-    echo -e "# ${GREEN}网址${PLAIN}: https://hijk.art{RED}无法访问${PLAIN}                                    #"
-    echo -e "# ${GREEN}论坛${PLAIN}: https://hijk.club{RED}无法访问${PLAIN}                                   #"
-    echo -e "# ${GREEN}TG群${PLAIN}: https://t.me/hijkclub{RED}无法访问${PLAIN}                               #"
+    echo -e "# ${GREEN}网址${PLAIN}: https://hijk.art${RED}无法访问${PLAIN}                                    #"
+    echo -e "# ${GREEN}论坛${PLAIN}: https://hijk.club${RED}无法访问${PLAIN}                                   #"
+    echo -e "# ${GREEN}TG群${PLAIN}: https://t.me/hijkclub${RED}无法访问${PLAIN}                               #"
     echo -e "# ${GREEN}Youtube频道${PLAIN}: https://youtube.com/channel/UCYTB--VsObzepVJtc9yvUxQ #"
     echo "#############################################################"
 
