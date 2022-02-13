@@ -1,3 +1,5 @@
+V2ray一键安装脚本（带HTTPS伪装）修改自网络跳越，作者已经跑路
+
 剔除了作者用于检测域名是否解析到本机服务器的验证，原因（该用于检测IP的网址已经挂掉）故导致验证失败退出安装
 
 bash <(curl -sL https://raw.githubusercontent.com/Llikeyoulqm/V2ray/main/v2ray.sh)
